@@ -72,3 +72,4 @@ export default defineConfig([
 ])
 ```
 "# merkato-store" 
+"# merkato" 
