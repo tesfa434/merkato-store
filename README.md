@@ -74,3 +74,4 @@ export default defineConfig([
 "# merkato-store" 
 "# merkato" 
 "# merkato" 
+"# merkato" 
