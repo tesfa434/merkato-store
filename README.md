@@ -79,3 +79,4 @@ export default defineConfig([
 "# Neww" 
 "# Neww" 
 "# merkato" 
+"# maki" 
